@@ -1,7 +1,7 @@
 /**
 * @file main.cpp
  * @brief Embedded Temperature and Humidity Monitoring using DHT11
- * @author Praveen Kumar Sharma [Praveen2005OP
+ * @author Praveen Kumar Sharma [Praveen2005OP]
  * @date 19/02/2026
  *
  * @details
